@@ -1,0 +1,5 @@
+Café Aroma Real - página corregida
+
+Abre index.html en el navegador. Mantén la carpeta images junto al archivo index.html para que las ilustraciones carguen correctamente. Las imágenes están guardadas localmente y no necesitan internet.
+
+Corrección: el producto aparece como “Maní” y su ilustración muestra maní tostado, sin pulpa de café.
